@@ -4,7 +4,7 @@
 **Author:** Aghiad Daghestani  
 **Date:** May 2025  
 **Dataset:** [Looker E-Commerce Public Dataset](https://console.cloud.google.com/marketplace/product/bigquery-public-data/thelook-ecommerce)  
-**Tools Used:** SQL (BigQuery), Google Slides
+**Tools Used:** SQL (BigQuery), Google Slides, Tableau
 
 ---
 
@@ -120,9 +120,9 @@ The project simulates a **real-world analytics scenario** to demonstrate my skil
 
 ## 📬 Contact
 
-📧 Email: [your.email@example.com]  
-🌐 [LinkedIn](https://linkedin.com/in/your-profile)  
-🐙 [GitHub](https://github.com/your-github-username)
+📧 Email: []  
+🌐 [LinkedIn]()  
+🐙 [GitHub]()
 
 ---
 
