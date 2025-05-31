@@ -1,5 +1,5 @@
 # The_look_ecommerce_analytics
-# 🛍️ E-Commerce Analytics Project (Looker Public Dataset)
+#  E-Commerce Analytics Project (Looker Public Dataset)
 
 **Author:** Aghiad Daghestani  
 **Date:** May 2025  
@@ -8,7 +8,7 @@
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 This project provides a comprehensive analysis of the **Looker e-commerce public dataset**, focusing on:
 
@@ -20,7 +20,7 @@ The project simulates a **real-world analytics scenario** to demonstrate my skil
 
 ---
 
-## 🧠 Business Objectives
+##  Business Objectives
 
 ### 🔹 **Users Report**
 
@@ -38,7 +38,7 @@ The project simulates a **real-world analytics scenario** to demonstrate my skil
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 | Module | Description |
 |--------|-------------|
@@ -52,29 +52,29 @@ The project simulates a **real-world analytics scenario** to demonstrate my skil
 
 ## 📈 Key Insights
 
-### 👥 Customer Insights
+###  Customer Insights
 
 - **74.4% churned users** (no orders in 6+ months) – urgent need for retention strategy
 - **50+ age group** leads in total spend and average monthly spend
 - **Search** is the top marketing channel ($7.58M revenue), followed by Organic and Facebook
 - **China, US, and Brazil** are the top 3 user markets
 
-> 🔁 **Actionable Strategy:** Re-engagement campaigns, optimize for mature segments, expand organic & social marketing reach
+>  **Actionable Strategy:** Re-engagement campaigns, optimize for mature segments, expand organic & social marketing reach
 
 ---
 
-### 📦 Product Insights
+###  Product Insights
 
 - **Outerwear & Jeans** dominate gross profit categories
 - **Top 10 products** (e.g., Canada Goose Jackets) generate disproportionately high gross profit
 - **Low-performance products** make up 98%+ of customer orders—huge upselling opportunity
 - **208-month recency** for some products indicates stale inventory
 
-> 🚨 **Actionable Strategy:** Liquidate inactive SKUs, promote high-AOV products, tailor marketing to proven profitable items
+>  **Actionable Strategy:** Liquidate inactive SKUs, promote high-AOV products, tailor marketing to proven profitable items
 
 ---
 
-## 📋 Sample KPIs Tracked
+##  Sample KPIs Tracked
 
 - Total Sales, Total Orders, Total Users
 - Average Order Value (AOV)
@@ -86,14 +86,14 @@ The project simulates a **real-world analytics scenario** to demonstrate my skil
 
 ---
 
-## 📎 Presentations
+##  Presentations
 
 - [📄 Users Report Presentation](./Users_report_presentation.pdf)
 - [📄 Products Report Presentation](./Products%20Report%20Presentation.pdf)
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - **SQL (BigQuery):** Data extraction, transformation, analysis
 - **Google Slides:** Data storytelling & stakeholder presentations
@@ -101,7 +101,7 @@ The project simulates a **real-world analytics scenario** to demonstrate my skil
 
 ---
 
-## 🎯 What I Learned
+##  What I Learned
 
 - How to turn raw e-commerce data into strategic insights
 - Real-world metrics like churn, AOV, gross profit, and customer value segments
@@ -110,7 +110,7 @@ The project simulates a **real-world analytics scenario** to demonstrate my skil
 
 ---
 
-## 🛠️ Future Improvements
+##  Future Improvements
 
 - Build interactive dashboard (Tableau / Data Studio)
 - Add Python (Pandas) or dbt for pipeline automation
@@ -118,11 +118,11 @@ The project simulates a **real-world analytics scenario** to demonstrate my skil
 
 ---
 
-## 📬 Contact
+##  Contact
 
-📧 Email: []  
-🌐 [LinkedIn]()  
-🐙 [GitHub]()
+📧 Email: [aghiad.daghestani97@gmail.com]  
+🌐 [LinkedIn](https://www.linkedin.com/in/aghiad-daghestani-54617b261/)  
+
 
 ---
 
