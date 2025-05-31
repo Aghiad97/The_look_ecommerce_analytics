@@ -25,8 +25,8 @@ The project simulates a **real-world analytics scenario** to demonstrate my skil
 ### 🔹 **Users Report**
 
 - Identify high-value and churned users
-- Analyze customer lifetime value (LTV), order cadence, and return behavior
-- Segment users by age group, lifespan, traffic source, and geography
+- Analyze order cadence and return behavior
+- Segment users by age group, lifespan, and traffic source
 - Optimize marketing based on AOV by channel
 
 ### 🔹 **Products Report**
